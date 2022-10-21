@@ -1,4 +1,4 @@
-module github.com/wanghaha-dev/gfa-dev/gf
+module github.com/wanghaha-dev/gf
 
 go 1.14
 
